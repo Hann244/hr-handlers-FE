@@ -1,6 +1,7 @@
 ## 👋인사잘해팀 : HR(human resources)
 ### 프로젝트 소개
-![인사잘해](https://media.discordapp.net/attachments/1303967846027755560/1316651649569132595/2024-12-12_3.23.22.png?ex=675bd2e7&is=675a8167&hm=eaf69c79a2c4b9311af7fc45d8d98b58633597eed4e75d7c6e4225e7b45b4f91&=&format=webp&quality=lossless&width=883&height=295)
+<img width="100%" alt="인사잘해" src="https://github.com/user-attachments/assets/5970ff18-2172-468f-9858-77458d432e61" />
+
 > 인사 및 근태 관리를 통합한 사내 HR 프로그램!
 
 본 프로젝트는 사내 인사 및 근태 관리를 효율화하기 위해 개발된 HR 시스템입니다.
@@ -51,38 +52,38 @@
 ---
 
 ### ERD
-![인사잘해_ERD_](/uploads/5d03f9d14ffb8c68a881d00cd7dfb66e/인사잘해_ERD_.png)
+![인사잘해 ERD ](https://github.com/user-attachments/assets/ffe86490-a2ab-4339-89d9-995463ac02dc)
 
 ---
 
 ### 📌주요 기능
 ##### 홈
-![hr-handlers_10](/uploads/96bde8645c70d8ff101ab38ae247b9d2/hr-handlers_10.png)
+![hr-handlers_11](https://github.com/user-attachments/assets/c27959d1-6a7b-40f6-927e-c7a8b0252f20)
 
 ##### 사원
-![hr-handlers_11](/uploads/f55e53bcbeeb9280e5641cd56f05bc9c/hr-handlers_11.png)
-![hr-handlers_12](/uploads/028d8d267ceb355b9f8f0bae621f9b20/hr-handlers_12.png)
+![hr-handlers_12](https://github.com/user-attachments/assets/de07380d-93b3-4679-b473-f4236d9bfb68)
+![hr-handlers_13](https://github.com/user-attachments/assets/ada46b6d-25a0-4608-b33f-699d3c0a5577)
 
 ##### 근태
-![hr-handlers_14](/uploads/989821c1f6e3b10b7a06b3ed0972f7f9/hr-handlers_14.png)
+![hr-handlers_15](https://github.com/user-attachments/assets/2f86c0fe-7849-4276-bc70-975e0a8eed1e)
 
 ##### 일정
-![hr-handlers_16](/uploads/93532b9c07a12a2720f113515ed8c331/hr-handlers_16.png)
+![hr-handlers_17](https://github.com/user-attachments/assets/d7108759-89f5-4019-8e2f-7950ee5ca6a6)
 
 ##### 휴가
-![hr-handlers_15](/uploads/92f5f5490bfdefb6879cac1c39fe1adb/hr-handlers_15.png)
+![hr-handlers_16](https://github.com/user-attachments/assets/8afcd93f-1bdf-4f5f-9d2f-2482fc80fe29)
 
 ##### 게시판
-![hr-handlers_17](/uploads/0326688bab1e7fb138f0ec8f5fc2bde5/hr-handlers_17.png)
-![hr-handlers_18](/uploads/9d8d41f51815bb0332a1dad19d93bbe6/hr-handlers_18.png)
-![hr-handlers_19](/uploads/358251ab2d4dde40f8821acbec7062c7/hr-handlers_19.png)
+![hr-handlers_18](https://github.com/user-attachments/assets/97f8c227-9061-4f32-9682-63895be55c2c)
+![hr-handlers_19](https://github.com/user-attachments/assets/e369648c-15fa-4fec-bae3-af42a2a86e54)
+![hr-handlers_20](https://github.com/user-attachments/assets/b487f2be-1746-43fc-9e95-76a96b23857a)
 
 ##### 메신저
-![hr-handlers_13](/uploads/218e2c0969772076db8d511d6424a349/hr-handlers_13.png)
+![hr-handlers_14](https://github.com/user-attachments/assets/b8d1f5c7-8fc1-4778-8da5-4d89875e5c89)
 
 ##### 급여
-![hr-handlers_20](/uploads/6afb8c6ae2140791ca2142fc70eee8b2/hr-handlers_20.png)
-![hr-handlers_21](/uploads/82a242f1a0df08fbf54aef40d3bfdbc7/hr-handlers_21.png)
+![hr-handlers_21](https://github.com/user-attachments/assets/b81eadb0-f85f-4af6-aeff-226b8566e16d)
+![hr-handlers_22](https://github.com/user-attachments/assets/38bb9640-a098-4190-829c-9afd9d80856b)
 
 ---
 
